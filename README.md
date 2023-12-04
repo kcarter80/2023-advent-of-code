@@ -11,11 +11,20 @@ Part 2 (42 minutes)
 8:01 am restart
 8:06 am end
 
-12/2/2023
-Part 1
+12/2/2023 
+Part 1 (35 minutes)
 10:23 pm start
 10:58 pm complete
 
-Part 2
+Part 2 (18 minutes)
 7:06 am start
 7:24 am complete
+
+12/3/2023
+Part 1 (33 minutes)
+7:45 am start
+8:18 am complete
+
+Part 2 (27 minutes)
+8:19 am start
+8:46 am complete
