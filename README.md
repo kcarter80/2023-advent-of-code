@@ -78,3 +78,16 @@ Part 2 (57 minutes)
 8:36 am break
 9:00 am start
 9:22 am complete
+
+12/8/2023
+Part 1 (20 minutes)
+9:24 am start
+9:44 am complete
+
+Part 2 (260 minutes)
+9:46 am start
+10:21 am break
+12:30 am start
+1:15 pm break
+1:30 pm start
+4:30 pm break
