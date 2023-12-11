@@ -91,3 +91,12 @@ Part 2 (260 minutes)
 1:15 pm break
 1:30 pm start
 4:30 pm break
+
+12/9/2023
+Part 1 (44 minutes)
+9:15 pm
+9:59 pm
+
+Part 2 (9 minutes)
+10:00 pm
+10:09 pm
